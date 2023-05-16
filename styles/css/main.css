@@ -17,7 +17,6 @@ body {
   position: absolute;
   overflow: hidden;
   max-width: 0;
-/*   border-bottom: 2px solid #fff; */
   color: white;
   content: attr(data-hover);
   -webkit-transition: max-width 0.5s;
