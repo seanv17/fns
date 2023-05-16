@@ -39,7 +39,7 @@ body {
     width: 750px; }
   #splash h2 {
     display: inline-block;
-    font-family: Offside;
+    font-family: Quicksand;
     font-size: 30px;
     color: #09a9f9; }
   #splash .hvr-pulse-grow {
@@ -48,7 +48,7 @@ body {
     cursor: pointer; }
   #splash .link--yaku {
     color: #09a9f9;
-    font-family: Offside;
+    font-family: Quicksand;
     font-size: 90px;
     overflow: hidden;
     padding: 0 0 10px; }
@@ -113,31 +113,31 @@ body {
   #splash .link--yaku span:nth-child(7),
   #splash .link--yaku:hover span:nth-child(12) {
     -webkit-transition-delay: 1s;
-    transition-delay: 1s; }
+    transition-delay: 1.1s; }
   #splash .link--yaku span:nth-child(6),
   #splash .link--yaku:hover span:nth-child(13) {
     -webkit-transition-delay: 1s;
-    transition-delay: 1s; }
+    transition-delay: 1.2s; }
   #splash .link--yaku span:nth-child(5),
   #splash .link--yaku:hover span:nth-child(14) {
     -webkit-transition-delay: 1s;
-    transition-delay: 1s; }
+    transition-delay: 1.3s; }
   #splash .link--yaku span:nth-child(4),
   #splash .link--yaku:hover span:nth-child(15) {
     -webkit-transition-delay: 1s;
-    transition-delay: 1s; }
+    transition-delay: 1.4s; }
   #splash .link--yaku span:nth-child(3),
   #splash .link--yaku:hover span:nth-child(16) {
     -webkit-transition-delay: 1s;
-    transition-delay: 1s; }
+    transition-delay: 1.5s; }
   #splash .link--yaku span:nth-child(2),
   #splash .link--yaku:hover span:nth-child(17) {
     -webkit-transition-delay: 1s;
-    transition-delay: 1s; }
+    transition-delay: 1.6s; }
   #splash .link--yaku span:first-child,
   #splash .link--yaku:hover span:nth-child(18) {
     -webkit-transition-delay: 1s;
-    transition-delay: 1s; }
+    transition-delay: 1.7s; }
 
 @media (min-width: 320px) and (max-width: 768px) {
   #splash .link--yaku {
