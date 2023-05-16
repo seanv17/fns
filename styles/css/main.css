@@ -18,7 +18,8 @@ body {
   overflow: hidden;
   max-width: 0;
   color: white;
-/*   content: attr(data-hover); */
+  content: attr(data-hover);
+  text-decoration: none;
   -webkit-transition: max-width 0.5s;
   -moz-transition: max-width 0.5s;
   transition: max-width 0.5s; }
