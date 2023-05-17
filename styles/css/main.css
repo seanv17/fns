@@ -137,9 +137,10 @@ a {
   .surname_element {
     margin-top: -50px;
     margin: 0 auto;
+    padding-left: 57px;
   }
   #splash .link--yaku {
-    font-size: 45px;
+    font-size: 33px;
   }
   .row {
     margin: 0 auto;
