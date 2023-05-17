@@ -7,7 +7,7 @@
 
 body {
   position: relative; 
-  background: ivory;
+  background-color: ivory;
 }
 
 .logo {
@@ -34,7 +34,7 @@ body {
   max-width: 100%; }
 
 #splash {
-  background: ivory;
+  background-color;
   text-align: center;
   padding-top: 20%;
 }
