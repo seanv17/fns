@@ -9,6 +9,10 @@ body {
   position: relative; 
 }
 
+.logo {
+  width: 500px; 
+}
+
 .link_effect a {
   color: rgba(255, 255, 255, 0.8);
   text-shadow: none; }
