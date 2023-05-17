@@ -18,6 +18,10 @@ body {
   width: 500px; 
 }
 
+a {
+  text-decoration: none !important;
+}
+
 .link_effect a {
   color: rgba(255, 255, 255, 0.8);
   text-shadow: none; }
@@ -137,3 +141,10 @@ body {
   #splash .link--yaku {
     font-size: 45px;
   }
+  .row {
+    margin: 0 auto;
+  }
+  .logo {
+    width: 400px;
+  }
+}
