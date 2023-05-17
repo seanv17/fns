@@ -40,7 +40,7 @@ body {
 #splash {
   background-color;
   text-align: center;
-  padding-top: 20%;
+  padding-top: 10px;
 }
   #splash .text_elements {
     text-align: center;
@@ -61,7 +61,9 @@ body {
     font-weight: bold;
     font-size: 90px;
     overflow: hidden;
-    padding: 0 0 10px; }
+    padding: 0 0 10px; 
+    margin-top: -30px;
+}
   #splash .link--yaku:hover::before {
     -webkit-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0); }
