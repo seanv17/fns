@@ -136,7 +136,7 @@ a {
 @media (min-width: 320px) and (max-width: 768px) {
   .surname_element {
     margin-top: -50px;
-    padding-left: 110px;
+    margin: 0 auto;
   }
   #splash .link--yaku {
     font-size: 45px;
