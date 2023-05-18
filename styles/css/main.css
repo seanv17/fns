@@ -153,6 +153,7 @@ a:focus::before {
   }
   #logo {
     max-width: 250px;
+    content: url("images/fish_only_logo.png");
   }
   .spinning_text {
     margin-top: 20px;
