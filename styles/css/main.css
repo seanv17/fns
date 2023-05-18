@@ -45,6 +45,9 @@ a:focus::before {
 
 .spinning_text {
   margin-top: -90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #splash .hvr-pulse-grow {
@@ -147,11 +150,11 @@ a:focus::before {
   transition-delay: 1.1s; 
 }
 
-@media (min-width: 320px) and (max-width: 768px) {
+@media screen and (min-width: 320px) and (max-width: 768px) {
   #splash .link--yaku {
-    font-size: 33px;
+    font-size: 30px;
   }
   .logo {
-    width: 390px;
+    width: 250px;
   }
 }
