@@ -151,7 +151,7 @@ a:focus::before {
     font-size: 40px;
     margin-top: -10px;
   }
-  #logo {
+  img #logo {
     max-width: 250px;
     content: url("images/fish_only_logo.png");
   }
