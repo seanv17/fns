@@ -28,7 +28,6 @@ a:focus::before {
   justify-content: center;
   align-items: center;
   background-color: ivory;
-  margin-top: -30px;
   font-family: Quicksand;
   font-weight: bold;
   font-size: 30px;
@@ -36,13 +35,13 @@ a:focus::before {
 }
 
 .logo {
-  width: 400px; 
-  height: 400px;
+  width: 300px; 
+  height: 300px;
   display: block;
   background-image: url(http://fishnerdsupplies.com/images/fish_only_logo.svg);
   background-position: center;
   background-repeat: no-repeat, repeat;
-  background-size: 400px 400px;
+  background-size: 300px 300px;
 }
 
 .company_name {
