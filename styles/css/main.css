@@ -28,20 +28,26 @@ a:focus::before {
   justify-content: center;
   align-items: center;
   background-color: ivory;
-  padding-top: 10px;
+  margin-top: -40px;
   font-family: Quicksand;
   font-weight: bold;
   font-size: 30px;
   color: #09a9f9; 
 }
 
-#logo {
-  width: 400px; 
+.logo {
+  width: 500px; 
+  height: 500px;
   display: block;
+  background-image: url(http://fishnerdsupplies.com/images/fish_only_logo.svg);
+  background-position: center;
+  background-repeat: no-repeat, repeat;
+  background-size: 500px 500px;
 }
 
 .company_name {
   margin-top: -20px;
+  text-align: center;
 }
 
 .company_name h3 {
@@ -151,9 +157,9 @@ a:focus::before {
     font-size: 40px;
     margin-top: -10px;
   }
-  img #logo {
-    max-width: 250px;
-    content: url("images/fish_only_logo.png");
+  .logo {
+    background-size: 250px;
+    background-image: url(http://fishnerdsupplies.com/images/fish_only_logo.png);
   }
   .spinning_text {
     margin-top: 20px;
