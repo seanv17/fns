@@ -156,7 +156,6 @@ a:focus::before {
   }
   .company_name h3 {
     font-size: 40px;
-    margin-top: -40px;
   }
   .logo {
     background-size: 250px;
