@@ -79,7 +79,7 @@ a:focus::before {
 }
 
 #splash .link--yaku:hover span {
-  color: #09a9f9;
+  color: #001440;
   -webkit-transform: perspective(1000px) rotate3d(0, 1, 0, 360deg);
   transform: perspective(1000px) rotate3d(0, 1, 0, 360deg); 
 }
