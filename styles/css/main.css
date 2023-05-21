@@ -38,7 +38,7 @@ a:focus::before {
   width: 300px; 
   height: 300px;
   display: block;
-  background-image: url(http://fishnerdsupplies.com/images/fish_only_logo.svg);
+  background-image: url(http://fishnerdsupplies.com/images/fish_only_logo.png);
   background-position: center;
   background-repeat: no-repeat, repeat;
   background-size: 300px 300px;
@@ -159,7 +159,6 @@ a:focus::before {
   }
   .logo {
     background-size: 250px;
-    background-image: url(http://fishnerdsupplies.com/images/fish_only_logo.png);
   }
   .spinning_text {
     margin-top: 20px;
